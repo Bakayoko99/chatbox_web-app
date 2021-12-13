@@ -1,6 +1,17 @@
 ## chatbox_web-app
 
-Application web Fullstack 'Chatbox' développé en React et  
+Application web Fullstack 'Chatbox' développé en React.js
+
+### Technologies utilisées 🛠️
+
+FRONT:
+- [React](https://reactjs.org/)
+- [Material UI](https://mui.com/)
+- [Bootstrap](https://getbootstrap.com/)
+
+BACK:
+- [Express](https://expressjs.com/)
+- [Mongoose](https://mongoosejs.com/)
 
 #### Installation
 
