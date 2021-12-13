@@ -1,0 +1,33 @@
+.hp-buttons{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    /* background-color: burlywood; */
+    background-image: url(./images/bg-photo2.jpg) no-repeat center center fixed;
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    
+
+}
+
+body{
+    background-color: #f0ffff;
+}
+
+.button-background{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #68a3d6;
+    
+}
+
+
+
+button{
+    background-color: #f0ffff;
+    width: 100px;
+    box-shadow: 10px 5px 5px black;
+
+}

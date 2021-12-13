@@ -1,0 +1,14 @@
+#channelList{
+    margin-top: 33px;
+    border: solid;
+    border-width: 2px;
+    border-color: black;
+    width: 576px;
+}
+
+#homeButtons{
+    box-shadow: none;
+}
+
+/* #big-container{
+    /* width: 255px; }*/
