@@ -2,7 +2,7 @@
 
 Application web Fullstack développé en React.js
 
-### Technologies utilisées 🛠️
+#### Technologies utilisées 🛠️
 
 FRONT:
 - [React](https://reactjs.org/)
