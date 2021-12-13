@@ -1,6 +1,6 @@
-## chatbox_web-app
+## Chatbox
 
-Chatbox - Application web Fullstack développé en React.js
+Application web Fullstack développé en React.js
 
 ### Technologies utilisées 🛠️
 
